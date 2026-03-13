@@ -1,0 +1,4 @@
+# Opt this repository out of GitHub Copilot content indexing.
+# This prevents the repository from being used as AI context
+# in the Copilot Chat repository picker.
+*
